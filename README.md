@@ -1,2 +1,2 @@
 # cordova-apps
-droid and ios mobile apps with corvova.apache.org
+Droid and IOS mobile apps with corvova.apache.org
